@@ -11,7 +11,7 @@ namespace NameGenerator
             string name="";
             if (gender=="female")
             {
-                string file = @"C:\Users\İREM FATMA\Source\Repos\NameGenerator\female.txt";
+                string file = @"C:\\Source\Repos\NameGenerator\female.txt";
                 string[] lines = File.ReadAllLines(file);
                 foreach (string ln in lines)
                 {
@@ -26,7 +26,7 @@ namespace NameGenerator
             }
             else if(gender=="male")
             {
-                string file = @"C:\Users\İREM FATMA\Source\Repos\NameGenerator\male.txt";
+                string file = @"C:\\Source\Repos\NameGenerator\male.txt";
                 string[] lines = File.ReadAllLines(file);
                 foreach (string ln in lines)
                 {
