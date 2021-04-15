@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lastirembender/NameGenerator)
+
 # NameGenerator
 
 This Console Application is my first project which I code with unit tests. 
